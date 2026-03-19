@@ -1,0 +1,6 @@
+scapy
+numpy
+pandas
+joblib
+scikit-learn
+imblearn
